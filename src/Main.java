@@ -1,7 +1,7 @@
 public class Main {
 
     public static void A(){
-
+        int a;
     }
 
     public static void B(){

@@ -1,5 +1,6 @@
 
-int c(){
-}
+
 int c(int a){
+}
+int c(){
 }

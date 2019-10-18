@@ -9,6 +9,7 @@ public class Main {
     }
 
     public static int A(int a){
+        int c;
         return 0;
     }
 

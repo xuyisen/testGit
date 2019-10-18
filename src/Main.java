@@ -14,6 +14,6 @@ public class Main {
     }
 
     public static void B(int b){
-
+        int d;
     }
 }
